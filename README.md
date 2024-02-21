@@ -1,5 +1,5 @@
 # READ ME 
-This is a debate simulator, which I wrote while learning about OO. It simulates a classroom, where people debate and can win and lose, etc.
+This is a debate simulator, which I made while learning about OO. It simulates a classroom, where people debate and can win and lose, etc.
 
 # How to run
 Head to the debate folder and run "dotnet run" from there. 
