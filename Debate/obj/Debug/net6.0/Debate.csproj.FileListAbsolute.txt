@@ -1,0 +1,14 @@
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.AssemblyInfoInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.AssemblyInfo.cs
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.csproj.CoreCompileInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/bin/Debug/net6.0/Debate
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/bin/Debug/net6.0/Debate.deps.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/bin/Debug/net6.0/Debate.runtimeconfig.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/bin/Debug/net6.0/Debate.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/bin/Debug/net6.0/Debate.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/refint/Debate.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/Debate.genruntimeconfig.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/obj/Debug/net6.0/ref/Debate.dll

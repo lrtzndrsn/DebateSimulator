@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/h5gGhm//RlnxcBtzyLpi4NuUeExiMfoRyqum0jFsS5zW0yZfbTzZM1f40idcU/PfB7g3cM51VNlpTPIO0TfA==",
+  "success": true,
+  "projectFilePath": "/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/DebateSimulator/Debate/Debate.csproj",
+  "expectedPackageFiles": [
+    "/Users/lauritzandersen/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/lauritzandersen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/lauritzandersen/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
